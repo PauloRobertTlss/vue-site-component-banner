@@ -1,5 +1,12 @@
+<p align="center"><img src="https://warlord0blog.files.wordpress.com/2018/03/vue-laravel.png?w=300"></p>
+
+
+## Sobre o Projeto
+
+O Projeto traz aos usuários uma experiência quase desktop com esse leve Single Page Application, Seria simples avaliar mas o grande ponto neste projeto são as tecnologias e boas práticas presentes na sua estrutura como web-component, webpack, build.
+
 # vue-site-component-banner
-FRONTEND - SITE - JSON - BANNER
+BANNER - CARD - FOOTER
 
 - Gerar página de boot do SPA (single page application).
 ```shell
