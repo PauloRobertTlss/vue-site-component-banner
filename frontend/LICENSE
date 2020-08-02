@@ -1,0 +1,9 @@
+MIT License
+
+Copyright (c) 2017-present PanJiaChen
+
+>> rodar servidor Node.js dentro da pasta dist/
+$ http-server -c-1 -p 8000
+
+
+

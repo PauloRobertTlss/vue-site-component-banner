@@ -1,0 +1,14 @@
+.idea/
+.npm-cache/
+node_modules/
+/frontend/node_modules/
+/frontend/public/
+.npm-cache/
+dist/
+/node_modules
+
+/frontend/vendor
+/frontend/build
+/.idea
+/frontend/.env
+googlee8d935161dd4f897.html

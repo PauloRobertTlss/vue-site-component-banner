@@ -1,0 +1,8 @@
+{
+    "name": "root/frontend",
+    "description" : "site fle",
+    "require": {
+        "php": "~7.1"
+    },
+    "license": "MIYT"
+}
