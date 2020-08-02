@@ -1,4 +1,4 @@
-<p align="center"><img src="https://warlord0blog.files.wordpress.com/2018/03/vue-laravel.png?w=300"></p>
+<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Ffree-code-camp%2Fvue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77&psig=AOvVaw1MoHpuBY9XFnooopntILOt&ust=1596490120096000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDp1tK8_eoCFQAAAAAdAAAAABAJ"></p>
 
 
 ## Sobre o Projeto
