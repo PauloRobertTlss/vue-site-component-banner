@@ -12,7 +12,7 @@
                     </div>
                     <h3 class="mb-4 white-text">ENDEREÇO</h3>
                     <time itemprop="openingHours" datetime="Tu,Su 09:00-17:30">Segunda a Sexta:<br>Aberto das 8:00 &mdash; 18:30 - Sábados até 13:00</time>
-                    <address><svg-icon icon-class="maps-and-flags" class-name="card-panel-icon  white-text"/> &mdash;  Rua Fernando Ribeiro Marques, 261 - Chácara São João</address>
+                    <address><svg-icon icon-class="maps-and-flags" class-name="card-panel-icon  white-text"/> &mdash;  Rua Fernando Ribeiro Marques, 261 - Chácara São João SP</address>
                 </div>
             </div>
             

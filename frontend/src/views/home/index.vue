@@ -54,7 +54,7 @@
             <div class="row align-items-center justify-content-center">
                 <div class="col s12 m12 l8 section-heading">
                     <h3 class="headin light-blue-text" itemprop="nome">FLE REFRIGERAÇÃO</h3>
-                    <p>Nossos serviços são variados, mas todos trazem a mesma promessa de qualidade, dedicação e durabilidade. Licenciado e segurado, somos uma equipe experiente e dedicada que trás todo conhecimento adquirido ao longo destes anos, alida as novas tecnológias e equipamentos de manutenção. <strong>Reforma e Instalação de refrigeração leves</strong>&nbsp;e pesadas.</p>
+                    <p>Nossos serviços são variados, mas todos trazem a mesma promessa de qualidade, dedicação e durabilidade. Licenciado e segurado, somos uma equipe experiente e dedicada que trás todo conhecimento adquirido ao longo destes anos, aliada as novas tecnológias e equipamentos de manutenção. <strong>Reforma e Instalação de refrigeração leves</strong>&nbsp;e pesadas.</p>
                     
                 </div>
             </div>
