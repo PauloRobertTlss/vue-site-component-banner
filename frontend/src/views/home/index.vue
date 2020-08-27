@@ -39,7 +39,7 @@
                     <p class="sub-heading mb-5"></p>
                 </div>
             </div>
-            <h4 class="title-hr text-center cyan-text text-lighten-1" data-aos="fade-right"> COMPRESSOR | EVAPORADOR | VENTILATORES | DIGITAL</h4>
+            <h4 class="title-hr text-center cyan-text text-lighten-1" data-aos="fade-right"> OFICINA DE REFRIGERAÇÂO | COMPRESSOR | DIGITAL</h4>
             <hr class="hr-how"/>
             <div class="row">
                 <card-service :key="service.id" v-for="service in cardServices" :title="service.title" :subTitle="service.subTitle" :description="service.description" :image="service.image"> </card-service>
@@ -55,7 +55,7 @@
                 <div class="col s12 m12 l8 section-heading">
                     <h3 class="headin light-blue-text" itemprop="nome">FLE REFRIGERAÇÃO</h3>
                     <p>Nossos serviços são variados, mas todos trazem a mesma promessa de qualidade, dedicação e durabilidade. Licenciado e segurado, somos uma equipe experiente e dedicada que trás todo conhecimento adquirido ao longo destes anos, aliada as novas tecnológias e equipamentos de manutenção. <strong>Reforma e Instalação de refrigeração leves</strong>&nbsp;e pesadas.</p>
-                    
+                    <small>oficina de refrigeração</small>
                 </div>
             </div>
         </div>
@@ -70,7 +70,7 @@
     <div class="col s12 m3">
       <div class="card small">
         <p class="ribbon">
-          <span class="text"><strong class="bold">Mais Procurado</strong>&nbsp;:compressor SANDEN</span>
+          <span class="text"><strong class="bold">Refrigeração</strong>&nbsp;:compressor SANDEN</span>
         </p>
         <div class="card-image rotate">
           <img src="https://picpaymagebanks.s3.amazonaws.com/vista-lateral-frontal.jpg" alt="manutenção de compressores ">
@@ -78,7 +78,7 @@
         </div>
         <div class="card-stacked">
         <div class="card-content grey-text">
-          <small>compressor sanden | 134 | 404</small>
+          <small>compressor de refrigeração sanden | 134a | 404</small>
         </div>
         <div class="card-action">
           <a class="blue-grey-text text-darken-4 pulse" rel="noopener" href="https://api.whatsapp.com/send?phone=5511961471070" target="_blank" title="continue no WhatsApp">
@@ -96,7 +96,7 @@
         </div>
         <div class="card-stacked">
         <div class="card-content grey-text">
-          <small>Todas as marcas</small>
+          <small>oficina de refrigeração</small>
         </div>
         <div class="card-action">
           <a class="blue-grey-text text-darken-4" rel="noopener" href="https://api.whatsapp.com/send?phone=5511961471070" target="_blank" title="continue no WhatsApp">SPAL | IMOBRAS | UNIVERSAL<small class="grey-text">&nbsp;cada</small><svg-icon icon-class="whatsapp" class-name="card-panel-icon green-text" class="right"/></a>
@@ -111,7 +111,7 @@
         </div>
         <div class="card-stacked">
         <div class="card-content grey-text">
-          <small></small>
+            <small>compressor de refrigeração</small>
         </div>
         <div class="card-action">
           <a class="blue-grey-text text-darken-4" rel="noopener" href="https://api.whatsapp.com/send?phone=5511961471070" target="_blank" title="continue no WhatsApp">MANGUEIRA E CONEXÔES<small class="grey-text">&nbsp;</small><svg-icon icon-class="whatsapp" class-name="card-panel-icon green-text" class="right"/></a>
@@ -126,7 +126,7 @@
         </div>
         <div class="card-stacked">
         <div class="card-content grey-text">
-          <small>gás 134 | 404</small>
+            <small>oficina de refrigeração</small>
         </div>
         <div class="card-action">
           <a class="blue-grey-text text-darken-4" rel="noopener" href="https://api.whatsapp.com/send?phone=5511961471070" target="_blank" title="continue no WhatsApp">RECARGA E LIMPEZA NO SISTEMA<small class="grey-text">&nbsp;cada</small><svg-icon icon-class="whatsapp" class-name="card-panel-icon green-text" class="right"/></a>
